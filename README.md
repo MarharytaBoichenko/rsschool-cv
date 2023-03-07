@@ -1,1 +1,1 @@
-# rsschool-cv
+https://MarharytaBoichenko.github.io/rsschool-cv/cv

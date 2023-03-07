@@ -1,24 +1,43 @@
-# #Marharyta Boichenko
+# Marharyta Boichenko
 
-# ##Contact info
+![фото](/photo.jpeg)
 
-*E-mail boichenkomv@gamil.com
-*GitHub MarharytaBoichenko
-*Telegram @MargarytaBoichenko
-*Discord MarharytaBoichenko
+## Contact info
 
-====
+- E-mail boichenkomv@gmail.com
+- GitHub [MarharytaBoichenko](https://github.com/MarharytaBoichenko)
+- Telegram @MargarytaBoichenko
+- Discord MarharytaBoichenko
 
-# ##About me
+## About me
 
-# ##Skills
+I am a junior frontend developer. I focus on HTML5, SCSS, JS, React. Looking for a full-time position. Practice, development and work for result are important for me. I`m responsible and ready for challenging tasks.
 
-# ##Code Example
+## Skills
+
+- HTML, CSS (SASS/SCSS, BEM)
+- JavaScript (ES6+, DOM, JSON, Asynchronous JavaScript)
+- Git/GitHub
+- React
+
+## Code Example
 
 ```
 ff
 ```
 
-# ##Projects
+## Projects
 
-##Languages
+[Memory Game](https://marharytaboichenko.github.io/Memory-pair-game/)
+Find all pairs of cards. Responsible layout. Using pure JS, SCSS.
+
+[Friends-App](https://marharytaboichenko.github.io/Friends-App/)
+Find your friend by name, age, sort the list and filter by sex. Responsive layout. Using JS, REST API.
+
+[WebStudio](https://marharytaboichenko.github.io/goit-markup-hw-08/)
+WebStudio site. Responsive layout. Using SCSS, Parsel, JS.
+
+## Languages
+
+- Ukrainian - native speaker
+- English - Intermediate
