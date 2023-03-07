@@ -23,7 +23,11 @@ I am a junior frontend developer. I focus on HTML5, SCSS, JS, React. Looking for
 ## Code Example
 
 ```
-ff
+function disemvowel(str) {
+  let strArr = str.split("");
+  let vowels = ["a", "o", "i", "e", "u"];
+  return strArr.filter((leter) => !vowels.includes(leter.toLowerCase())).join("");
+}
 ```
 
 ## Projects
